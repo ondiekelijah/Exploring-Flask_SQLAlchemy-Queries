@@ -5,16 +5,16 @@
 **Windows**
           
 ```
-mkdir flask_sqlalchemy_queries
-cd flask_sqlalchemy_queries
+git clone https://github.com/Dev-Elie/Exploring-Flask_SQLAlchemy-Queries.git
+cd Exploring-Flask_SQLAlchemy-Queries
 py -3 -m venv venv
 ```
           
 **macOS/Linux**
           
 ```
-mkdir flask_sqlalchemy_queries
-cd flask_sqlalchemy_queries
+git clone https://github.com/Dev-Elie/Exploring-Flask_SQLAlchemy-Queries.git
+cd Exploring-Flask_SQLAlchemy-Queries
 python3 -m venv venv
 ```
 
